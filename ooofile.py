@@ -1,0 +1,2 @@
+print("ooo"
+      "                           ooo oo")
